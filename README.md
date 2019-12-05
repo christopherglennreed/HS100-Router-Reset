@@ -12,4 +12,4 @@ echo $(date -u) $loss "Restarting Plug" >> /plug/log.txt
  
 then you will need to add it to cron
   
-echo $(date -u) $loss "Restarting Plug" >> /plug/log.txt 
+
